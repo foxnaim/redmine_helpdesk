@@ -1,3 +1,8 @@
+> **foxnaim** · Лёгкий плагин службы поддержки для Redmine
+>
+> Готовая основа под клиентский проект. Стек: Ruby.
+> Лицензия MIT сохранена, история коммитов и авторы оригинального проекта сохранены.
+
 # Redmine Helpdesk
 
 Lightweight helpdesk plugin for redmine. Adds the email sender-address of an anonymous supportclient to the custom field 'owner-email' of a ticket which was created by a support email. Answers can be send to the supportclient by checking the support checkbox on a journal.
